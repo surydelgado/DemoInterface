@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>DemoClasesAbstractass</name>
+=======
 	<name>DemoInterface</name>
+>>>>>>> 8cc9f27ba6f368c399aca749625ece8793c9dea9
 	<comment></comment>
 	<projects>
 	</projects>
